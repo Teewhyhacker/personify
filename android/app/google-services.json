@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "478554081074",
+    "project_id": "personify-f6666",
+    "storage_bucket": "personify-f6666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478554081074:android:3ddb9b186b20f884caf92b",
+        "android_client_info": {
+          "package_name": "com.adetayo.personify_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478554081074-7hv11k6imrqk72gusrdhdlqhnr51vto4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adetayo.personify_app",
+            "certificate_hash": "0dcb135ed05d5bcf9f97c4a567184a0d7bd66944"
+          }
+        },
+        {
+          "client_id": "478554081074-c0e98qjcm2bvh498qsjle1p2ub1t2pe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3nk8FM0y09ArVMJyjeqkF9NYZuwhZIPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478554081074-c0e98qjcm2bvh498qsjle1p2ub1t2pe6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478554081074-nkln509ugvon6d9ppsjiv2j1ipmsk29m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.personifyApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
